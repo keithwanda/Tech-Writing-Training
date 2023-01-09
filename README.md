@@ -1,3 +1,4 @@
 # Tech-Writing-Training
 
-Cool things about tech training
+Artifacts related to tech writing training.
+Cool things about tech writing training.
